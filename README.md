@@ -11,3 +11,7 @@
 | 5  | 23.08.19 | [RIPS, IPAM, UCLA](https://www.ipam.ucla.edu/programs/student-research-programs/research-in-industrial-projects-for-students-rips-2020/) | Risk Assessments and Measurements of Privacy Leaks within Google's Ads Data Hub | Research Talk and Presentation | Video and slides available on request |  
 | 6  | 30.10.19 | [Women Who Code](https://www.facebook.com/womenwhocodedelhi) | AMA with Google WTM Scholars - Tania Wu | Webinar Series | https://bit.ly/334V8yZ |
  
+2020
+
+| 7 | 11.01.20 | [Women Who Code](https://www.facebook.com/womenwhocodedelhi) | Scholarship Opportunity: Google Women Techmakers at 'You, Opportunities and Everything in Between' | Talk | https://bit.ly/2FKJP4Q |
+| 8 | 11.01.20 | [Women Who Code](https://www.facebook.com/womenwhocodedelhi) | Summer Research Opportunity: RIPS at IPAM, UCLA at 'You, Opportunities and Everything in Between' | Talk | https://bit.ly/30bzmJk |
