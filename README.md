@@ -17,3 +17,4 @@
 |------|------|--------------|--------|----------|----------------|
 | 7 | 11.01.20 | [Women Who Code](https://www.facebook.com/womenwhocodedelhi) | Scholarship Opportunity: Google Women Techmakers at 'You, Opportunities and Everything in Between' | Talk | https://bit.ly/2FKJP4Q |
 | 8 | 11.01.20 | [Women Who Code](https://www.facebook.com/womenwhocodedelhi) | Summer Research Opportunity: RIPS at IPAM, UCLA at 'You, Opportunities and Everything in Between' | Talk | https://bit.ly/30bzmJk |
+| 9 | 19.01.20 | [Women Who Code](https://www.facebook.com/womenwhocodedelhi) | Mentorship Program 2.0 | Mentor | In progress |
