@@ -20,3 +20,4 @@
 | 9 | 19.01.20 | [Women Who Code](https://www.facebook.com/womenwhocodedelhi) | Mentorship Program 2.0 | Mentor | https://bit.ly/39uuDVT |
 | 10 | 29.03.20 | [Women Who Code](https://www.facebook.com/womenwhocodedelhi) | ONLive - Opportunity Talk with RGSoC Scholars and Open Source | Webinar Series | https://bit.ly/3ar1SLh |
 | 11 | 20.08.20 | [Summer School of Machine Learning at Skoltech (SMILES)](https://smiles.skoltech.ru/school) | Risk Assessments and Measurements of Privacy Leaks within Google's Ads Data Hub | Poster Presentation | https://youtu.be/-AxHgeYTnB0 |
+| 12 | 27.08.20 | [North Cap University](https://www.ncuindia.edu/) | Resume Writing Workshop | Online Talk | Available on Request |
