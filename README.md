@@ -21,3 +21,4 @@
 | 10 | 29.03.20 | [Women Who Code](https://www.facebook.com/womenwhocodedelhi) | ONLive - Opportunity Talk with RGSoC Scholars and Open Source | Webinar Series | https://bit.ly/3ar1SLh |
 | 11 | 20.08.20 | [Summer School of Machine Learning at Skoltech (SMILES)](https://smiles.skoltech.ru/school) | Risk Assessments and Measurements of Privacy Leaks within Google's Ads Data Hub | Poster Presentation | https://smiles.skoltech.ru/poster-presentations (poster), https://youtu.be/-AxHgeYTnB0 (presentation) |
 | 12 | 27.08.20 | [North Cap University](https://www.ncuindia.edu/) | Resume Writing Workshop | Online Talk | Video and Slides Available on Request |
+| 13 | 25.08.20 | [Laboratory for Computational Social Systems (LCS2), IIITD](http://lcs2.iiitd.edu.in) | XLNet: Generalized Autoregressive Pretraining for Language Understanding | Paper Presentation and Discussion in Reading Group | https://bit.ly/3j7g3JB |
